@@ -11,7 +11,7 @@ A soothing dark color scheme for VSCode.
 
 ## Extras
 
-Color themes for various applications and terminal emulators [here](https://github.com/kvrohit/mellow.nvim).
+Color themes for various applications and terminal emulators [here](https://github.com/mellow-theme).
 
 ## Credits
 
